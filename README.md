@@ -1,7 +1,7 @@
 # Upoznajmo Hrvatsku
 
 A website about Croatia in Croatian language. 
-Made with HTML5, CSS, Bootstrap and animations made with Blender and Adobe Premiere.
+Made with HTML5, CSS, Bootstrap, Javascript and animations made with Blender and Adobe Premiere.
 Website contains sites about Croatian National parks, main events and landmarks.
 The animations are different for each page, showing a map of Croatia with falling pins. 
 Pins fall on places that are mentioned in the text below. 
